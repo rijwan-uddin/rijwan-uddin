@@ -1,10 +1,10 @@
-### Hi there 👋, I'm Md Rijwan
-#### Flutter Developer
-![Flutter Developer](https://alifouad91.com/storage/post/9sIBxL0hhyw5VCBwlBbEYtz9tlzgOqdHRaCRVAAK.jpeg)
+### Hi there 👋, **I'm Md Rijwan**
+#### **Flutter Developer**
+![**Flutter Developer**](https://alifouad91.com/storage/post/9sIBxL0hhyw5VCBwlBbEYtz9tlzgOqdHRaCRVAAK.jpeg)
 
 Hey there! I'm Md Rijwan, a passionate Flutter developer who's just getting started in the tech industry. I've recently graduated and I'm eager to dive into exciting projects, learn from experienced developers, and contribute to innovative solutions.
 
-Skills: Dart / Flutter/ Firebase/ sql/ Sqflite/Java/c/python
+Skills: **Dart / Flutter/ Firebase/ sql/ Sqflite/Java/c/python**
 
 - 🌱 I’m currently learning **AI,Data science** 
 - 💬 Ask me about **Dart,Flutter,Python,C,C++,Java** 
