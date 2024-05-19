@@ -4,9 +4,9 @@
 
 Hey there! I'm Md Rijwan, a passionate Flutter developer who's just getting started in the tech industry. I've recently graduated and I'm eager to dive into exciting projects, learn from experienced developers, and contribute to innovative solutions.
 
-Skills: **Dart / Flutter/ Firebase/ sql/ Sqflite/Java/c/python**
+Skills: **Dart/ Flutter/ Firebase/ sql/ Sqflite/ REST API/ Java/ c/ python**
 
-- 🌱 I’m currently learning **AI,Data science** 
+- 🌱 I’m currently learning **AI,Data science,Machine Learning** 
 - 💬 Ask me about **Dart,Flutter,Python,C,C++,Java** 
 - 📫 How to reach me: rijoneriju@gmail.com  
 
